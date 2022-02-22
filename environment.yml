@@ -1,0 +1,24 @@
+name: tutorial_osm22_cmip6
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - dask
+  - distributed
+  - cartopy
+  - xarray
+  - numpy
+  - scipy
+  - dask
+  - pandas
+  - matplotlib
+  - cmocean
+  - regionmask
+  - zarr
+  - h5netcdf
+  - cf_xarray
+  - nc-time-axis
+  - xgcm
+  - intake-esm
+  - gcsfs
+  - cmip6_preprocessing
