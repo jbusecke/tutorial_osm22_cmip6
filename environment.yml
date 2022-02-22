@@ -21,4 +21,5 @@ dependencies:
   - xgcm
   - intake-esm
   - gcsfs
+  - s3fs
   - cmip6_preprocessing
