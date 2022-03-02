@@ -9,6 +9,7 @@ dependencies:
   - cartopy
   - xarray
   - numpy
+  - hvplot
   - scipy
   - dask
   - pandas
