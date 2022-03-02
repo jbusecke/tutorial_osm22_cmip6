@@ -1,6 +1,7 @@
 name: tutorial_osm22_cmip6
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
   - python=3.9
   - dask
@@ -23,3 +24,4 @@ dependencies:
   - gcsfs
   - s3fs
   - cmip6_preprocessing
+  - ipython
