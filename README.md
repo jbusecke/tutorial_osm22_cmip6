@@ -1,6 +1,6 @@
-[![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/jbusecke/tutorial_osm22_cmip6/main?filepath=getting_started.ipynb)
+<!-- [![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/jbusecke/tutorial_osm22_cmip6/main?filepath=getting_started.ipynb) -->
 
-Backup (less RAM)
+<!-- Backup (less RAM) -->
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbusecke/tutorial_osm22_cmip6/HEAD?labpath=getting_started.ipynb)
 
 # tutorial_osm22_cmip6
