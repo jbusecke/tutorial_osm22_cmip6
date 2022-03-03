@@ -12,4 +12,5 @@ Use the Pangeo Binder below to get the best performance for the tutorial (github
 
 ### Fallback: MyBinder
 If the above method should not work for you, try the non-pangeo binder below. It has less resources, but does not require any login.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbusecke/tutorial_osm22_cmip6/HEAD?labpath=getting_started.ipynb)
